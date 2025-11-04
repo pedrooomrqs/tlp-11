@@ -1,6 +1,12 @@
 # NÃO ACABADO!
 import os
 
+def valor_stock():
+    pass
+
+def ver_produtos():
+    pass
+
 def inserir_produtos(produto1, preco1, lista):
     pass
 
@@ -52,6 +58,5 @@ def menu(lista_produtos):
 # PROGRAMA PRINCIPAL
 lista_produtos=[]
 menu(lista_produtos)
-
 
 input("\nPrima ENTER para terminar.")
