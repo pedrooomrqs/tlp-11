@@ -1,3 +1,4 @@
+# NÃO ACABADO!
 import os
 
 def inserir_produtos(produto1, preco1, lista):
@@ -51,5 +52,6 @@ def menu(lista_produtos):
 # PROGRAMA PRINCIPAL
 lista_produtos=[]
 menu(lista_produtos)
+
 
 input("\nPrima ENTER para terminar.")
